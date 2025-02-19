@@ -44,3 +44,7 @@ bun.lockb
 
 .nx/cache
 .nx/workspace-data
+
+# SQLite database
+*.sqlite
+apps/backend/database/database.sqlite
